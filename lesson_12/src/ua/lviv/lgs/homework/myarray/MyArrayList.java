@@ -1,4 +1,4 @@
-package ua.lviv.homework.myarray;
+package ua.lviv.lgs.homework.myarray;
 
 import java.util.Arrays;
 

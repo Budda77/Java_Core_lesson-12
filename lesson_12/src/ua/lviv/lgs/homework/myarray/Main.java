@@ -1,6 +1,6 @@
 
 
-package ua.lviv.homework.myarray;
+package ua.lviv.lgs.homework.myarray;
 
 
 public class Main {
